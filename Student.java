@@ -46,7 +46,7 @@ public class Student {
     }
     
     public void expulsion() {
-        System.out.println("The Student was expulsion.\n");
+        System.out.println("The Student was expelled.\n");
         course = 0;
         university = "none";
         faculty = "none";
